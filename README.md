@@ -48,8 +48,8 @@ It integrates the **[TripoSR](https://github.com/VAST-AI-Labs/TripoSR)** 3D reco
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/yourusername/PixelProof.git
-cd PixelProof
+git clone https://github.com/yourusername/PixelProof3D.git
+cd PixelProof3D
 ```
 2️⃣ Install dependencies
 ```bash
